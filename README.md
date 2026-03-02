@@ -14,7 +14,7 @@ A classic **Snake Game** developed in **Python**. Control the snake, eat food to
 ## Requirements
 
 - Python 3.x
-- Pygame library (if used)
+- Pygame library 
 
 Install dependencies
 
